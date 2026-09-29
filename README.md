@@ -1,10 +1,8 @@
 # Furkan Çoban
 
-**Computer Engineering · Full-Stack · AI · Product**
+> Computer Engineering student building practical AI products, full-stack systems, and crypto market tools.
 
-I think in products, not demos. Currently building **Shepard AI** — a live crypto-analysis
-platform that turns noisy markets into readable bullish / bearish / neutral sentiment —
-and **TrendCatcher**, a trend-research desk for the Turkish market.
+I care about turning unclear problems into useful products—not just demos. I currently build **Shepard AI**, a paper-trading crypto analysis platform, and **TrendCatcher**, a research desk for Turkish builders.
 
 <p>
   <a href="https://shepardai.pro"><img src="https://img.shields.io/badge/Shepard_AI-live-06b6d4?style=for-the-badge" alt="Shepard AI" /></a>
@@ -12,23 +10,34 @@ and **TrendCatcher**, a trend-research desk for the Turkish market.
   <a href="https://trendcatcher-shepardai.pages.dev/"><img src="https://img.shields.io/badge/TrendCatcher-demo-7c3aed?style=for-the-badge" alt="TrendCatcher demo" /></a>
 </p>
 
-## What I build
+## About me
 
-- AI-assisted SaaS with real user flows: auth, payments, admin tools, dashboards
-- Crypto market intelligence: technical signals, whale traces, news/social catalysts
-- React · TypeScript · Next.js · Python · Supabase (Postgres) · Vercel · Edge Functions
+- BSc Computer Engineering, Bülent Ecevit University (2024 — present)
+- Exchange semester at Hochschule Schmalkalden, Germany (Oct 2025 — Mar 2026, Erasmus+)
+- Interested in AI-assisted SaaS, backend systems, product engineering, and market intelligence
+- Building with a paper-only trading approach while validating real user flows
 
-## Featured
+## Selected projects
 
-| Project | What | Link |
-|---|---|---|
-| Shepard AI | Live crypto sentiment SaaS (Gemini 2.5 Flash, 15-min refresh) | [shepardai.pro](https://shepardai.pro) |
-| TrendCatcher | Research desk for Turkish builders | [demo](https://trendcatcher-shepardai.pages.dev/) · [repo](https://github.com/cobanfurkanx/trend-arbitrage-radar) |
+### [Shepard AI](https://shepardai.pro)
+Live crypto-analysis SaaS that turns noisy market data into readable bullish, bearish, and neutral signals. Includes authentication, dashboards, AI summaries, and scheduled refreshes.
+
+### [TrendCatcher](https://trendcatcher-shepardai.pages.dev/)
+Research desk for discovering and evaluating trends relevant to Turkish builders. [Source code](https://github.com/cobanfurkanx/trend-arbitrage-radar)
+
+## Skills with context
+
+- **Product engineering:** React, TypeScript, Next.js — user-facing products and dashboards
+- **Backend and data:** Python, Supabase/Postgres, Edge Functions — APIs, auth, scheduled jobs, and data workflows
+- **AI applications:** LLM-powered summaries and analysis — turning complex data into useful decisions
+- **Deployment:** Vercel, Cloudflare, GitHub — shipping and maintaining web products
 
 ## Background
 
-- BSc Computer Engineering, Bülent Ecevit University (2024 — present)
-- Exchange semester, Hochschule Schmalkalden, Germany (Oct 2025 — Mar 2026, Erasmus+)
-- Cybersecurity Operations & Awareness, İŞKUR Youth Program (Mar — Jun 2025)
+I also completed a Cybersecurity Operations & Awareness placement through the İŞKUR Youth Program (Mar — Jun 2025).
 
-📫 furkancobanbusiness@gmail.com · [LinkedIn](https://linkedin.com/in/furkancoban1337)
+## Contact
+
+- Portfolio: [cobanfurkanx.github.io](https://cobanfurkanx.github.io/)
+- LinkedIn: [linkedin.com/in/furkancoban1337](https://linkedin.com/in/furkancoban1337)
+- Email: [furkancobanbusiness@gmail.com](mailto:furkancobanbusiness@gmail.com)
