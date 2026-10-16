@@ -25,6 +25,10 @@ Live crypto-analysis SaaS that turns noisy market data into readable bullish, be
 ### [TrendCatcher](https://trendcatcher-shepardai.pages.dev/)
 Research desk for discovering and evaluating trends relevant to Turkish builders. [Source code](https://github.com/cobanfurkanx/trend-arbitrage-radar)
 
+## Open-source contributions
+
+- **Adyen Node.js API library:** [PR #1796](https://github.com/Adyen/adyen-node-api-library/pull/1796), merged on October 15, 2026. Added Terminal Cloud API endpoint configuration validation and regression tests.
+
 ## Skills with context
 
 - **Product engineering:** React, TypeScript, Next.js — user-facing products and dashboards
